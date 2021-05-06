@@ -34,7 +34,7 @@
     "axios": "^0.19.2",
     "chart.js": "^2.8.0",
     "clsx": "^1.0.4",
-    "highcharts": "^8.1.2",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^3.0.0",
     "history": "^4.9.0",
     "moment": "^2.24.0",
